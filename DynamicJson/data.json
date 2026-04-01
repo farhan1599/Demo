@@ -1,0 +1,13 @@
+{
+  "id": 101,
+  "name": "Farhan",
+  "details": {
+    "email": "farhan@example.com",
+    "phone": "9876543210"
+  },
+  "hobbies": ["Reading", "Gaming", "Coding"],
+  "extraField": {
+    "key1": "value1",
+    "key2": "value2"
+  }
+}
